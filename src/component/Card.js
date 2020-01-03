@@ -36,7 +36,7 @@ class CardDesign extends React.Component{
                         <CardActionArea>
                         <CardMedia
                             style = {{height : "150px"}}
-                            image="https://analyticsindiamag.com/wp-content/uploads/2019/11/javascript.png"
+                            image="https://nadia-training.com/wp-content/uploads/2019/03/JavaScript-Essentials-Course.jpg"
                             title="Contemplative Reptile"
                             />
                             {/* <CardMedia>
