@@ -41,6 +41,7 @@ class App extends React.Component{
         <div>
         <Link to = "/" ></Link>
         <Link to = "/questions" ></Link>
+        
         </div>
 
 
